@@ -1,3 +1,3 @@
 # first-demo
 This is my personal repository
-Author - Charvi Singh
+Author - Charvi Singh(NIT KKR)
